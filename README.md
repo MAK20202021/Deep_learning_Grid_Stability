@@ -11,11 +11,17 @@ This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4).
 
 ## File Description
 The source codes are as follows:
-- Final_Project_Unsupervised.ipynb
-- Final_Project_Unsupervised.html
-- Report_Unsupervised_Learning.pdf
+- Final_Project_Deep_Learning_Smart_Grid_Stability.ipynb
+- Final_Project_Deep_Learning_Smart_Grid_Stability.html
+- Project_Report_DL.pdf
+- smart_grid_stability_augmented.csv
 
 ## Discussion
 This exercise provides a better understanding of deep learning approach in case of predicting grid stability. I used GridSearchCV library to get the best parameters for the model such as layers and nodes and activation function. I got 97.05% accuracy of the model. From hyperparameter tuning I got four layers with ReLu activation. For further analysis with this dataset, we can increase the number of epochs and it will increase the prediction accuracy.
 
 ## Reference
+1.	https://www.kaggle.com/code/pcbreviglieri/predicting-smart-grid-stability-with-deep-learning
+2.	https://github.com/krishnaik06/Complete-Deep-Learning-With-Materials
+3.	https://www.youtube.com/watch?v=Bc2dWI3vnE0
+4.	https://www.youtube.com/watch?v=v95p-EfWps8&t=631s
+
