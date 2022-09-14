@@ -1,7 +1,7 @@
 # Deep_learning_Grid_Stability
 This project is based on the "Electrical Grid Stability Simulated Dataset", created by Vadim Arzamasov (Karlsruher Institut für Technologie, Karlsruhe, Germany) and donated to the University of California (UCI) Machine Learning Repository ([link](https://archive.ics.uci.edu/ml/datasets/Electrical+Grid+Stability+Simulated+Data+)), where it is currently hosted. 
 After Learning from the project ([link](https://www.kaggle.com/code/pcbreviglieri/predicting-smart-grid-stability-with-deep-learning)), I explored the utilization of GridSearchCV to perform the hyperparameter tuning with the same dataset to do more analysis in deep learning.
-The Main objective of the analysis is to focus on a specific type of Deep Learning and the benefits that this analysis brings to the business or stakeholders of this data is to predict the stability of grid more accurately.
+The main objective of the analysis is to focus on a specific type of Deep Learning and the benefits that this analysis brings to the business or stakeholders of this data is to predict the stability of grid more accurately.
 
 ## Acknowledgement
 This project is for [IBM Machine Learning Professional Certificate Program](https://www.coursera.org/professional-certificates/ibm-machine-learning?).
